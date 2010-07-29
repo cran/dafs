@@ -1,0 +1,9 @@
+color	ppn	count
+Black/Grey	0.48	5831.52
+Blue	0.291	3535.359
+Red	0.127	1542.923
+Orange/Brown	0.048	583.152
+Pink/Purple	0.033	400.917
+Green	0.017	206.533
+Yellow	0.002	24.298
+Other	0.002	24.298
