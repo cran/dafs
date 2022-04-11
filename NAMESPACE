@@ -15,3 +15,13 @@ export(plotRegDiagPlots)
 export(printCI)
 export(pvalue)
 export(shadeDens)
+importFrom("grDevices", "embedFonts", "graphics.off", "gray.colors",
+     "pdf", "postscript")
+importFrom("graphics", "abline", "arrows", "axis", "box", "hist",
+     "legend", "lines", "pairs", "par", "points", "polygon",
+     "rect", "segments", "strwidth", "text")
+importFrom("stats", "cor", "dnorm", "fitted", "lm", "pf", "ppoints",
+     "qnorm", "qqnorm", "qt", "qtukey", "residuals", "runif",
+     "sd", "terms")
+importFrom("utils", "Stangle", "Sweave")
+import(s20x)

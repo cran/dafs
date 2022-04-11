@@ -1,5 +1,5 @@
-3dded072c16cf74587855dafa1157c1d *DESCRIPTION
-84355a1e2351a53ca6279af74fda7abf *NAMESPACE
+f37f9ba608ba77eae45de5364597ae5e *DESCRIPTION
+14e39e8733e9b77db3143316f0b442e4 *NAMESPACE
 6b786b65f2cb883e65d838fefc270cbb *R/Rsq.R
 cd98f515c32103553978232b4d9cc54c *R/StangleBook.R
 60c4f5a297c2f5b6f970b83b8fedcb12 *R/SweaveBook.R
@@ -75,7 +75,7 @@ f51fc4dea44314240863bb5df60679c6 *man/dpd.df.Rd
 8e2ba32e8e5104663f13d5841602ac5b *man/ghb.df.Rd
 53d8c8309d917da53aba0f4a7a521022 *man/gustafson.df.Rd
 93e8a21bdab93c08ced49e706dac396e *man/halfnorm.Rd
-79fc2693379b66ece8aa5893c327587f *man/intPlot.Rd
+bf151e50ac01717bd26742834b01c78c *man/intPlot.Rd
 21e43cecf5f7f835b3a47ecec8c5a785 *man/jauhari1.df.Rd
 d095d267b762d87e82a82b278df52bf1 *man/jauhari2.df.Rd
 0ae4794edf09a120f814e07bd54b1f02 *man/kent.df.Rd
